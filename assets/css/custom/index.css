@@ -1,0 +1,24 @@
+#micContainer i{
+  display: block !important;
+  margin-left: 100px;
+  font-size: 3rem;
+}
+
+#micContainer i::before{
+  margin-left: 75px;
+}
+
+#micContainer{
+  text-align: center !important;
+}
+
+#voiceInput{
+  margin-top: 40px;
+}
+#voiceSearch{
+  text-align: center !important;
+}
+
+#objectSelect+div+div{
+  display: none;
+}
