@@ -77,7 +77,3 @@ function init(){
 
 //Initializing the value
 init();
-
-
-
-
